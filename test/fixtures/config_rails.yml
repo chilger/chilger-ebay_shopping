@@ -1,0 +1,21 @@
+test:
+  sandbox:
+    app_id: 'CurtisHi-5133-4d3b-88cb-c101a1987b9c'
+    verbose: true 
+  production:
+    app_id: 'CurtisHi-d263-49fa-b316-40c8a3946c25'
+    verbose: true 
+development:
+  sandbox:
+    app_id: 'CurtisHi-5133-4d3b-88cb-c101a1987b9c'
+    verbose: true 
+  production:
+    app_id: 'CurtisHi-d263-49fa-b316-40c8a3946c25'
+    verbose: true 
+production:
+  sandbox:
+    app_id: 'CurtisHi-5133-4d3b-88cb-c101a1987b9c'
+    verbose: true 
+  production:
+    app_id: 'CurtisHi-d263-49fa-b316-40c8a3946c25'
+    verbose: true 

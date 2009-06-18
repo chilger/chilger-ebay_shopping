@@ -1,0 +1,7 @@
+-- Leave these empty to test for bad config file
+sandbox:
+  app_id: 
+
+production:
+  app_id: 
+

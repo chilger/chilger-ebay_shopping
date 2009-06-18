@@ -1,0 +1,8 @@
+sandbox:
+  app_id: 'ADD APP ID HERE'
+  verbose: true
+
+production:
+  app_id: 'ADD APP ID HERE'
+  verbose: false
+
